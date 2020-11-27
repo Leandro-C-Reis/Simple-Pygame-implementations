@@ -11,7 +11,7 @@ SURFACE = game.display.set_mode((400, 300))
 game.display.set_caption('Animation')
 
 WHITE = (255, 255, 255)
-catImg = game.image.load('./images/cat.png')
+catImg = game.image.load('./utils/cat.png')
 catx = 10
 caty = 10
 
